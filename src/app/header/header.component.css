@@ -1,0 +1,6 @@
+.container-fluid{
+  flex-wrap: nowrap;
+}
+.navbar-collapse{
+  flex-wrap: nowrap;
+}
