@@ -1,6 +1,13 @@
+:host{
+  display: block;
+  width: 100%;
+}
 .container-fluid{
   flex-wrap: nowrap;
 }
 .navbar-collapse{
   flex-wrap: nowrap;
+}
+.btn-group.show .dropdown-menu{
+  display: block;
 }
